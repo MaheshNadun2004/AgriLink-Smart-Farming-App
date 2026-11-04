@@ -6,7 +6,7 @@
 
 **Connect. Manage. Trade.**
 
-<img src="cover.png" alt="AgriLink Project Cover" width="300">
+<img src="cover.png" alt="AgriLink Project Cover" width="600">
 
 <br>
 
